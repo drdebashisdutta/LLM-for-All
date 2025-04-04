@@ -69,21 +69,6 @@ Because we believe the future of AI should be **open, ethical, and accessible to
 #AI #OpenSource #AIforAll #LLMForAll
 
 
-# 👨🏻‍💻 LLM Engineer Toolkit 
-This repository contains a curated list of 120+ LLM libraries category wise.
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalyanksnlp/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/kalyan_kpl">
-    <img src="https://img.shields.io/badge/Kalyan%20KS-%23000000.svg?logo=X&logoColor=white" alt="Twitter">
-  </a>
-   <a href="https://www.youtube.com/@kalyanksnlp">
-    <img src="https://img.shields.io/badge/Kalyan%20KS-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Twitter">
-  </a>
-	
-</p>
-
 ## Quick links
 ||||
 |---|---|---|
@@ -92,9 +77,6 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🌠 LLM Data Generation](#llm-data-generation) | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) | 
 | [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
-
-## Related Repositories
-- 🚀[RAG Zero to Hero Guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)  - Comprehensive guide to learn RAG from basics to advanced.
 
 
 ## LLM Training and Fine-Tuning
@@ -380,9 +362,60 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | LLM Reasoner          | Make any LLM think like OpenAI o1 and DeepSeek R1. | [Link](https://github.com/harishsg993010/LLM-Reasoner) |
 
 
-## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/llm-engineer-toolkit&type=Date)](https://star-history.com/#)
 
-Please consider giving a star, if you find this repository useful. 
 
+---
+
+## Contributing
+
+💡 Contributions are welcome!  
+
+Feel free to submit a pull request, suggest a new resource, or [open an issue](https://github.com/drdebashisdutta/LLM-for-All for All/issues/new). 
+
+Make sure your submissions align with the following guidelines:
+
+- Relevance to LLMs (e.g. category – using LLMs, fine-tuning LLMs, building LLM-based applications)
+- Clear documentation and accessibility (e.g. name + link + 1 sentence description).
+
+---
+
+## Spread the Word
+
+📢 Help us grow the **LLM for All** community by sharing this repo with your network! 
+
+You can star the repo, and share on LinkedIn and/or Twitter. 
+
+More info on how to do this below.
+
+### ⭐ Star the repo ⭐
+⭐ **Why Star This Repository?**  
+Your star helps others find this valuable resource! By starring, you:  
+- Support the LLM community.  
+- Gain access to the freshest content updated **every 24 hours**.  
+- Inspire others to dive into the world of LLMs.  
+
+Let’s make AI for ALL! 🌟 
+
+### 🙏 Credits
+
+This project was inspired in part by [Kalyan KS's llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) repository. Big thanks for curating such a valuable list of LLNs and resources!
+
+
+### LinkedIn
+Share on LinkedIn with this simple post:
+
+> 🚀 **LLm for All** - A curated collection of cutting-edge tools, resources, and inspiring projects in the world of LLMs. Open-source, community-driven, and ready to help spread AI for All! 
+> 🔗 [Check it out here!](https://github.com/drdebashisdutta/LLM-for-All)  
+> #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #DataScience #Innovation
+
+[Click here to share on LinkedIn!](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/drdebashisdutta/LLM-for-All)
+
+### Twitter
+Tweet this to share on Twitter:
+
+> 🚀 Discover the **LLM for All** repo! 🤖curated collection of Large Language Model (LLM) resources for text generation, automation, NLP tasks, and more! Open-source & community-driven! 🌟  
+> 🔗 [Check it out here!](https://github.com/drdebashisdutta/LLM-for-All)  
+> #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #Innovation
+
+[Click here to tweet!](https://twitter.com/intent/tweet?text=Explore%20the%20LLM%20for%20All%20repo%21%20A%20curated%20collection%20of%20Large%20Language%20Model%20tools%2C%20projects%2C%20datasets%2C%20and%20learning%20resources.%20Open-source%20%26%20community-driven%20for%20everyone%21%20%F0%9F%94%A5%20Check%20it%20out%3A%20https%3A%2F%2Fgithub.com%2Fdrdebashisdutta%2FLLM-for-All)
