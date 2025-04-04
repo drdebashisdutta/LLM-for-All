@@ -68,6 +68,17 @@ Because we believe the future of AI should be **open, ethical, and accessible to
 
 #AI #OpenSource #AIforAll #LLMForAll
 
+## 📘 Learning
+
+Here’s how you can grow your **LLM (Large Language Model)** expertise:
+
+- **For Beginners** – Start with the fundamentals! Understand what Large Language Models (LLMs) are, how they’re trained, and how they generate human-like text. A course will be launched shortly to guide you through it all.
+
+- **For the Curious** – Dive into hands-on practice! Explore tools, APIs, and techniques to work with pre-trained LLMs and build your own intelligent applications. A course will be launched shortly to guide you through it all.
+
+- **For the Bold** – Master advanced topics like fine-tuning, prompt engineering, multi-agent LLM systems, and integrating LLMs into production-ready workflows. A course will be launched shortly to guide you through it all.
+
+![](assets/llm-course.webp)
 
 ## Quick links
 ||||
@@ -419,3 +430,9 @@ Tweet this to share on Twitter:
 > #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #Innovation
 
 [Click here to tweet!](https://twitter.com/intent/tweet?text=Explore%20the%20LLM%20for%20All%20repo%21%20A%20curated%20collection%20of%20Large%20Language%20Model%20tools%2C%20projects%2C%20datasets%2C%20and%20learning%20resources.%20Open-source%20%26%20community-driven%20for%20everyone%21%20%F0%9F%94%A5%20Check%20it%20out%3A%20https%3A%2F%2Fgithub.com%2Fdrdebashisdutta%2FLLM-for-All)
+
+## License
+
+📜 This repository is licensed under the [Apache 2.0](LICENSE).  
+
+Proudly open source to benefit the larger community, feel free to fork and extend!
